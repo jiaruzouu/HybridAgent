@@ -4,7 +4,7 @@
 
 **LLM Agents that Think in latent space, Act through text**
 
-[![arXiv](https://img.shields.io/badge/arXiv-paper-b31b1b.svg)](https://arxiv.org/abs/XXXX.XXXXX)
+[![arXiv](https://img.shields.io/badge/arXiv-paper-b31b1b.svg)](https://arxiv.org/abs/2610.18861)
 [![Models](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-models%20%26%20data-yellow.svg)](https://huggingface.co/collections/togethercomputer/hybridagent)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
@@ -123,11 +123,13 @@ Train HybridRL on the agentic search tasks. Recommended hardware: 32 GPUs (4 nod
 ## 📚 Citation
 
 ```bibtex
-@article{zou2026hybrid,
-  title   = {Hybrid Reasoning Agents},
-  author  = {Zou, Jiaru and Qi, Yunzhe and Chen, Sirui and Bianchi, Federico and Zhu, Shang and
-             Lu, Pan and He, Jingrui and Zou, James},
-  journal = {arXiv preprint arXiv:XXXX.XXXXX},
-  year    = {2026}
+@misc{zou2026hybridagent,
+      title={Hybrid Reasoning Agents}, 
+      author={Jiaru Zou and Yunzhe Qi and Sirui Chen and Federico Bianchi and Shang Zhu and Pan Lu and Jingrui He and James Zou},
+      year={2026},
+      eprint={2610.18861},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2610.18861}, 
 }
 ```
